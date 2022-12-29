@@ -21,7 +21,6 @@
 
 [linkedin]: https://www.linkedin.com/in/byung-woong-ko-2aa877153/
 [gmail]: byungwoongko@gmail.com
-[python]: https://www.python.org/
 
 
 

@@ -6,9 +6,9 @@
 <br />
 :mortar_board: I am trying to learn to be the best software engineer I can be
 <br />
-:muscle: In my free time, I like working out
+:muscle: In my free time, I like working out 
 <br />
-:godmode: I served in the US and Korean Army
+:godmode: I served in the US and Korean Army, and I was national level wresler in Palau
 <br />
 :musical_note: My favorite genre is EDM (Dubstep)
 

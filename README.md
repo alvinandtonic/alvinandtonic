@@ -1,6 +1,6 @@
 ### Hi there, my name is Byung Woong (Alvin) Ko 👋
 
-### I am a Junior Computer Engineering Student at UMass Amherst
+### I am a Senior Computer Engineering Student at UMass Amherst
 
 :computer: I am currently learning C, Java, Python, Verilog, HDL
 <br />
